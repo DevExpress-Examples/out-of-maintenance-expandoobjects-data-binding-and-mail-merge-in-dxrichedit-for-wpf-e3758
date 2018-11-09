@@ -1,4 +1,4 @@
-﻿<Window x:Class="ExpandoObject_MailMerge.MainWindow"
+<Window x:Class="ExpandoObject_MailMerge.MainWindow"
         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         Title="MainWindow" Height="500" Width="800" xmlns:dxre="http://schemas.devexpress.com/winfx/2008/xaml/richedit" xmlns:dxb="http://schemas.devexpress.com/winfx/2008/xaml/bars" xmlns:dxr="http://schemas.devexpress.com/winfx/2008/xaml/ribbon" xmlns:dxe="http://schemas.devexpress.com/winfx/2008/xaml/editors">
