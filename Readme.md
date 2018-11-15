@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MainWindow.xaml.cs](./CS/ExpandoObject_MailMerge/MainWindow.xaml.cs) (VB: [MainWindow.xaml.vb](./VB/ExpandoObject_MailMerge/MainWindow.xaml.vb))
+<!-- default file list end -->
 # ExpandoObjects - data binding and mail merge in DXRichEdit for WPF
 
 
